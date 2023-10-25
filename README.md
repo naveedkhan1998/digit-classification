@@ -1,4 +1,3 @@
-```markdown
 # Setting Up a Python Virtual Environment
 
 Follow these steps to create a Python virtual environment and run your project:
@@ -44,4 +43,3 @@ This command installs the required packages listed in your `requirements.txt` fi
 Now you can run your project using the appropriate commands or scripts.
 
 These steps will help you set up and run your Python project within a clean and isolated virtual environment.
-```
