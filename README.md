@@ -15,7 +15,7 @@ If Git is not installed, you can download and install it from the official websi
 ## Step 2: Clone the Git Repository
 
 ```bash
-git clone <https://github.com/naveedkhan1998/digit-classification.gitl>
+git clone https://github.com/naveedkhan1998/digit-classification.gitl
 ```
 
 ## Step 3: Install `virtualenv`
